@@ -27,7 +27,7 @@ namespace IndicadoresWeb.Pages_UnidadesMedicion
         [BindProperty]
         public UnidadMedicion UnidadMedicion { get; set; } = default!;
 
-        // For more information, see https://aka.ms/RazorPagesCRUD.
+        
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid)

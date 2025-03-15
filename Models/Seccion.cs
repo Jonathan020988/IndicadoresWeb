@@ -1,5 +1,3 @@
-// Archivo creado, pendiente de contenido.
-
 namespace IndicadoresWeb.Models;
 
 
@@ -10,10 +8,10 @@ public class Seccion
 {
     [Key] // Clave primaria
     [Required] // No permite NULL
-    [MaxLength(2)] // VARCHAR(2) en SQL Server
+    [MaxLength(2)] 
     public string Id { get; set; }
 
     [Required] // No permite NULL
-    [MaxLength(200)] // VARCHAR(200) en SQL Server
+    [MaxLength(200)] 
     public string Nombre { get; set; }
 }

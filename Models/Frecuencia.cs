@@ -10,6 +10,6 @@ public class Frecuencia
     public int Id { get; set; }
 
     [Required] // No permite NULL (es obligatorio)
-    [MaxLength(200)] // Ajusta este valor según el tamaño de tu VARCHAR
+    [MaxLength(200)] 
     public string Nombre { get; set; }
 }

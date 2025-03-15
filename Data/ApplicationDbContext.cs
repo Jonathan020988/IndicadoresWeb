@@ -3,7 +3,7 @@ namespace IndicadoresWeb.Data;
 
 using Microsoft.EntityFrameworkCore;
 using System;
-using IndicadoresWeb.Models; // Asegúrate de cambiar "IndicadoresWeb" por el namespace de tu proyecto
+using IndicadoresWeb.Models; 
 
 public class ApplicationDbContext : DbContext
 {

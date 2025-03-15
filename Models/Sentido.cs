@@ -11,6 +11,6 @@ public class Sentido
     public int Id { get; set; }
 
     [Required] // No permite NULL (es obligatorio)
-    [MaxLength(200)] // Ajustar este valor
+    [MaxLength(200)] 
     public string Nombre { get; set; }
 }

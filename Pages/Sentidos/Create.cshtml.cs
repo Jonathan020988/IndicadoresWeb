@@ -27,7 +27,7 @@ namespace IndicadoresWeb.Pages_Sentidos
         [BindProperty]
         public Sentido Sentido { get; set; } = default!;
 
-        // For more information, see https://aka.ms/RazorPagesCRUD.
+       
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid)

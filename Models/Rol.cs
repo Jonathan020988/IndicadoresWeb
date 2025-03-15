@@ -11,6 +11,6 @@ public class Rol
     public int Id { get; set; }
 
     [Required] // No permite NULL (es obligatorio)
-    [MaxLength(100)] // Ajustar este valor
+    [MaxLength(100)] 
     public string Nombre { get; set; }
 }

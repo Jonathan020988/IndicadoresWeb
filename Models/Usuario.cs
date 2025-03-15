@@ -8,10 +8,10 @@ public class Usuario
 {
     [Key] // Indica que es la clave primaria
     [Required] // No permite NULL
-    [MaxLength(100)] // Máximo 100 caracteres
+    [MaxLength(100)] 
     public string Email { get; set; }
 
     [Required] // No permite NULL
-    [MaxLength(100)] // Máximo 100 caracteres
+    [MaxLength(100)]
     public string Contraseña { get; set; }
 }
