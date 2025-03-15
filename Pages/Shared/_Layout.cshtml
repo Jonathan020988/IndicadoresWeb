@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -10,35 +10,51 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
                 <a class="navbar-brand" asp-area="" asp-page="/Index">IndicadoresWeb</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav me-auto">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
+                            <a class="nav-link" asp-area="" asp-page="/Index">Inicio</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="menuCRUD" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Gestión de Datos
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" asp-page="/Frecuencias/Index">Frecuencias</a></li>
+                                <li><a class="dropdown-item" asp-page="/Fuentes/Index">Fuentes</a></li>
+                                <li><a class="dropdown-item" asp-page="/RepresenVisuales/Index">Representaciones Visuales</a></li>
+                                <li><a class="dropdown-item" asp-page="/Roles/Index">Roles</a></li>
+                                <li><a class="dropdown-item" asp-page="/Secciones/Index">Secciones</a></li>
+                                <li><a class="dropdown-item" asp-page="/Subsecciones/Index">Subsecciones</a></li>
+                                <li><a class="dropdown-item" asp-page="/TiposActor/Index">Tipos de Actor</a></li>
+                                <li><a class="dropdown-item" asp-page="/TiposIndicador/Index">Tipos de Indicador</a></li>
+                                <li><a class="dropdown-item" asp-page="/UnidadesMedicion/Index">Unidades de Medición</a></li>
+                                <li><a class="dropdown-item" asp-page="/Usuarios/Index">Usuarios</a></li>
+                                <li><a class="dropdown-item" asp-page="/Sentidos/Index">Sentidos</a></li>
+                            </ul>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
-    <div class="container">
+
+    <div class="container mt-4">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <footer class="bg-dark text-white text-center py-3">
         <div class="container">
-            &copy; 2025 - IndicadoresWeb - <a asp-area="" asp-page="/Privacy">Privacy</a>
+            &copy; 2025 - IndicadoresWeb | Todos los derechos reservados
         </div>
     </footer>
 

@@ -30,6 +30,46 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Frecuencias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJlY3VlbmNpYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Frecuencias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJlY3VlbmNpYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Frecuencias/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJlY3VlbmNpYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Frecuencias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJlY3VlbmNpYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Frecuencias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJlY3VlbmNpYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Fuentes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnVlbnRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Fuentes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnVlbnRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Fuentes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnVlbnRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Fuentes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnVlbnRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Fuentes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnVlbnRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -38,8 +78,188 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Represenvisuales/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwcmVzZW52aXN1YWxlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Represenvisuales/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwcmVzZW52aXN1YWxlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Represenvisuales/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwcmVzZW52aXN1YWxlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Represenvisuales/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwcmVzZW52aXN1YWxlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Represenvisuales/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwcmVzZW52aXN1YWxlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Roles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Secciones/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VjY2lvbmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Secciones/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VjY2lvbmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Secciones/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VjY2lvbmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Secciones/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VjY2lvbmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Secciones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VjY2lvbmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Sentidos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VudGlkb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Sentidos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VudGlkb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Sentidos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VudGlkb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Sentidos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VudGlkb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Sentidos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VudGlkb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Subsecciones/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Vic2VjY2lvbmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Subsecciones/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Vic2VjY2lvbmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Subsecciones/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Vic2VjY2lvbmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Subsecciones/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Vic2VjY2lvbmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Subsecciones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Vic2VjY2lvbmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/TiposActor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwb3NBY3RvclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/TiposActor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwb3NBY3RvclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/TiposActor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwb3NBY3RvclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/TiposActor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwb3NBY3RvclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/TiposActor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwb3NBY3RvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/TiposIndicador/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwb3NJbmRpY2Fkb3JcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/TiposIndicador/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwb3NJbmRpY2Fkb3JcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/TiposIndicador/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwb3NJbmRpY2Fkb3JcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/TiposIndicador/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwb3NJbmRpY2Fkb3JcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/TiposIndicador/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwb3NJbmRpY2Fkb3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/UnidadesMedicion/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVW5pZGFkZXNNZWRpY2lvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/UnidadesMedicion/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVW5pZGFkZXNNZWRpY2lvblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/UnidadesMedicion/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVW5pZGFkZXNNZWRpY2lvblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/UnidadesMedicion/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVW5pZGFkZXNNZWRpY2lvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/UnidadesMedicion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVW5pZGFkZXNNZWRpY2lvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Jonathan Ramirez/Desktop/ProyectoEntrega/IndicadoresWeb/Pages/_ViewImports.cshtml]
