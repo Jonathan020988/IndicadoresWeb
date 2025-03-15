@@ -1,3 +1,6 @@
+namespace IndicadoresWeb.Models;
+
+
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -8,6 +11,6 @@ public class Rol
     public int Id { get; set; }
 
     [Required] // No permite NULL (es obligatorio)
-    [MaxLength(100)] // Ajusta este valor según el tamaño de tu VARCHAR
+    [MaxLength(100)] // Ajustar este valor
     public string Nombre { get; set; }
 }

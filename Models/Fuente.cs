@@ -1,4 +1,5 @@
 // Archivo creado, pendiente de contenido.
+namespace IndicadoresWeb.Models;
 
 
 using System.ComponentModel.DataAnnotations;

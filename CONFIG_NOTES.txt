@@ -1,0 +1,19 @@
+/*
+   * Server=JONATHANRAMIREZ\SQLEXPRESS;
+   *   - Indica el servidor SQL donde está alojada la base de datos.
+   *   - En este caso, el servidor es una instancia local de SQL Server Express.
+   *   
+   * Database=bd_indicadores_1330;
+   *   - Nombre de la base de datos que usará la aplicación.
+   *   
+   * Trusted_Connection=True;
+   *   - Usa la autenticación de Windows en lugar de usuario/contraseña.
+   *   - Si usáramos autenticación SQL, en su lugar pondríamos: User Id=TU_USUARIO;Password=TU_CONTRASEÑA;
+   *   
+   * MultipleActiveResultSets=True;
+   *   - Permite ejecutar múltiples consultas al mismo tiempo en la misma conexión.
+   *   
+   * TrustServerCertificate=True;
+   *   - Desactiva la validación del certificado SSL.
+   *   - Se usa porque el servidor SQL no tiene un certificado de confianza.
+   */
